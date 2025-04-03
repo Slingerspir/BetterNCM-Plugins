@@ -1,0 +1,7 @@
+{
+    "name": "Plugins", // 插件名
+    "repo": "Slingerspir/BetterNCM-Plugins", // 插件的 Repo
+    "branch": "master", // 分支名
+    "subpath": "/", // 插件在 repo 中的子目录 （可选）
+    "author": "Slingerspir" // 作者
+}
